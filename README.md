@@ -1,7 +1,7 @@
 # Counter
 ## Simple Increment Counter App created using swift.
 ### Day 00 of learning IOS development through youtube projects
-* Learning the swift and xcode through youtube first and with various projects while I have free time between full stack software engineering bootcamp.
+* Learning the swift/swiftui and xcode through youtube first and with various projects while I have free time between full stack software engineering bootcamp.
 * This is a simple increment counter which counts up by 1 increment within the app.
 * Enjoying the learning through projects from Youtube
 * Will start the [100 Days of Swift](https://www.hackingwithswift.com/100) as well as the [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
