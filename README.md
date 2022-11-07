@@ -32,5 +32,4 @@ struct ContentView_Previews: PreviewProvider {
 }
 ```
 ---
-Mpilo Mafu
 
